@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Words</string>
+    <string name="text_entry">Enter Word</string>
+    <string name="button_search">Search!</string>
+    <string name="definition">Definition Shown Here</string>
+    <string name="pronunciation">Pronunciation</string>
+</resources>
